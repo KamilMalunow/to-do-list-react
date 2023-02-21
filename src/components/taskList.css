@@ -1,0 +1,19 @@
+.taskList--layout {
+    border-top: 1px solid #596E79;
+    margin-top: 20px;
+}
+
+h2 {
+    color: #596E79;
+    font-size: 1.8rem;
+    margin: 10px 0;
+}
+
+ul {
+    padding: 0;
+    margin: 0 0 10px 0;
+}
+
+.donetasks--info {
+    margin-bottom: 10px;
+}

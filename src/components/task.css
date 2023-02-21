@@ -1,0 +1,29 @@
+li {
+    list-style-type: none;
+    padding: 0;
+
+
+}
+
+.task {
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.button {
+    padding: 5px;
+    background-color: white;
+    border: 1px solid #C7B198;
+    border-radius: 0.25em;
+}
+
+.button:hover {
+    background-color: #DFD3C3;
+    border: 1px solid #DFD3C3;
+    transition: 0.3s;
+    cursor: pointer;
+    color: #596E79;
+}

@@ -1,0 +1,13 @@
+.App {
+  max-width: 1100px;
+  margin: 0 auto;
+  margin-top: 10vh;
+  background-color: #F0ECE3;
+  padding: 10px;
+  border-radius: 0.25em;
+  box-shadow: 0px 0px 18px -8px rgba(66, 68, 90, 1);
+}
+
+.App>h1 {
+  color: #596E79;
+}
